@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YeralShaik/React-Todo.git/static/css/main.607d41ad.css",
+    "main.js": "/YeralShaik/React-Todo.git/static/js/main.2e282b2e.js",
+    "index.html": "/YeralShaik/React-Todo.git/index.html",
+    "main.607d41ad.css.map": "/YeralShaik/React-Todo.git/static/css/main.607d41ad.css.map",
+    "main.2e282b2e.js.map": "/YeralShaik/React-Todo.git/static/js/main.2e282b2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607d41ad.css",
+    "static/js/main.2e282b2e.js"
+  ]
+}
